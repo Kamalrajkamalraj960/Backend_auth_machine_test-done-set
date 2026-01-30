@@ -50,12 +50,7 @@ JWT_SECRET=your_secret_key
 
 
 <img width="1019" height="433" alt="register-success" src="https://github.com/user-attachments/assets/8fec264d-65fb-4aef-b35c-81ff70a0f597" />
-
 ![alt text](register-validation-fail.png)
-
 <img width="1018" height="431" alt="login-success" src="https://github.com/user-attachments/assets/b566c6cb-2869-417c-9523-ff854164fbbf" />
-
 <img width="1019" height="434" alt="profile-with-token" src="https://github.com/user-attachments/assets/65af4f44-64f6-4d80-856c-b6692e778447" />
-
 <img width="1017" height="434" alt="profile-without-token" src="https://github.com/user-attachments/assets/566488fe-aa86-42d7-8a95-230112b5187b" />
-
