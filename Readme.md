@@ -49,3 +49,4 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 
 ![alt text](register-validation-fail.png)
+<img width="1019" height="433" alt="register-success" src="https://github.com/user-attachments/assets/8fec264d-65fb-4aef-b35c-81ff70a0f597" />
